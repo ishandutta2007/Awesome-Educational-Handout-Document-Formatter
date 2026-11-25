@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Educational-Handout-Document-Formatter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Educational-Handout-Document-Formatter?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Educational-Handout-Document-Formatter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Educational-Handout-Document-Formatter?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Educational-Handout-Document-Formatter/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Educational-Handout-Document-Formatter?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -66,9 +66,9 @@ The global digital document creation, desktop publishing, and visual communicati
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub star count.* ⭐
+*Sorted descending by GitHub Stars_Count.* ⭐
 
-| Project & Repository | Stars Badge | License & Cost | Free Tier / Self-Hosted Limits | Description |
+| Project & Repository | Stars_Badge | License & Cost | Free Tier / Self-Hosted Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | **AGPL-3.0** ($0 self-hosted) | **100% Free forever** (Unlimited local workspace notes, kanban boards, and student handouts) | Open-source Notion alternative for educators and researchers to structure study materials, databases, and printable class notes. |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![AFFiNE Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | **MPL-2.0** ($0 self-hosted) | **100% Free forever** (Unlimited canvas whiteboards and structured pageless documents) | Privacy-first collaborative workspace merging visual whiteboard brainstorming with structured document formatting for lecture materials. |
@@ -101,7 +101,7 @@ Contributions are very welcome! To suggest a new educational document tool or co
 3. ✏️ Add the tool to the appropriate table maintaining alphabetical or metric order. Ensure:
    - Factual pricing with exact numbers (no vague "custom" or "usage-based").
    - Explicit free tier / trial terms (exact days, page limits, or download caps).
-   - Valid GitHub repository link and star badge if open source.
+   - Valid GitHub repository link and Stars_Badge if open source.
 4. 🚀 Push your branch and open a Pull Request.
 
 ---
