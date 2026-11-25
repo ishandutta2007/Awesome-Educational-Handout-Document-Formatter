@@ -61,7 +61,7 @@
 
   <circle cx="600" cy="210" r="280" fill="url(#radialGlow3)" />
 
-  <!-- Animated Cyber Dashboard Flow Accents (Side flows that do not cover text) -->
+  <!-- Animated Flow Accents -->
   <g opacity="0.4">
     <path d="M 60,320 Q 160,260 260,320" fill="none" stroke="#60a5fa" stroke-width="2" stroke-dasharray="6,6">
       <animate attributeName="stroke-dashoffset" values="0;24" dur="2s" repeatCount="indefinite" />
@@ -105,7 +105,7 @@
       A comprehensive guide to SaaS platforms &amp; open-source repositories for educators, researchers &amp; developers
     </text>
 
-    <!-- Feature Cards / Interactive Visual Pills (With pure SMIL subtle bobbing) -->
+    <!-- Feature Cards / Interactive Visual Pills (Pure SMIL subtle bobbing) -->
     <g transform="translate(135, 268)">
       
       <!-- Card 1 -->
@@ -113,7 +113,6 @@
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="4s" repeatCount="indefinite" />
         <rect width="215" height="48" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.2" />
         <rect x="3" y="3" width="42" height="42" rx="8" fill="#0f172a" />
-        <!-- Lightning icon in native SVG paths for cross-platform rendering -->
         <path d="M 27 12 L 18 25 L 24 25 L 21 36 L 31 23 L 25 23 Z" fill="#38bdf8" />
         <text x="56" y="22" font-size="13" font-weight="700" fill="#f8fafc">Typst &amp; LaTeX</text>
         <text x="56" y="38" font-size="11" font-weight="400" fill="#94a3b8">Code-first Typesetting</text>
@@ -124,7 +123,6 @@
         <animateTransform attributeName="transform" type="translate" values="240,0; 240,-4; 240,0" dur="4.6s" repeatCount="indefinite" />
         <rect width="215" height="48" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.2" />
         <rect x="3" y="3" width="42" height="42" rx="8" fill="#0f172a" />
-        <!-- Document icon in native SVG paths -->
         <path d="M 19 14 L 27 14 L 31 18 L 31 34 L 19 34 Z M 21 16 L 21 32 L 29 32 L 29 20 L 25 20 L 25 16 Z" fill="#a78bfa" />
         <path d="M 23 24 L 27 24 M 23 27 L 27 27" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" />
         <text x="56" y="22" font-size="13" font-weight="700" fill="#f8fafc">Pandoc &amp; Quarto</text>
@@ -136,7 +134,6 @@
         <animateTransform attributeName="transform" type="translate" values="480,0; 480,-4; 480,0" dur="4.2s" repeatCount="indefinite" />
         <rect width="215" height="48" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.2" />
         <rect x="3" y="3" width="42" height="42" rx="8" fill="#0f172a" />
-        <!-- Palette / Design icon in native SVG paths -->
         <circle cx="24" cy="22" r="8" fill="none" stroke="#f472b6" stroke-width="2" />
         <circle cx="22" cy="20" r="1.5" fill="#f472b6" />
         <circle cx="26" cy="21" r="1.5" fill="#f472b6" />
@@ -150,7 +147,6 @@
         <animateTransform attributeName="transform" type="translate" values="720,0; 720,-4; 720,0" dur="5s" repeatCount="indefinite" />
         <rect width="215" height="48" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.2" />
         <rect x="3" y="3" width="42" height="42" rx="8" fill="#0f172a" />
-        <!-- Workspace / Team icon in native SVG paths -->
         <circle cx="22" cy="21" r="3" fill="#34d399" />
         <circle cx="28" cy="21" r="3" fill="#34d399" />
         <path d="M 18 31 C 18 27 26 27 26 31 Z M 24 31 C 24 27 32 27 32 31 Z" fill="#34d399" />
@@ -163,7 +159,7 @@
     <!-- Footer Stats / Meta Line -->
     <g transform="translate(600, 368)">
       <text text-anchor="middle" font-size="12" font-weight="600" fill="#64748b" letter-spacing="1">
-        400,000+ COMBINED STARS &nbsp;•&nbsp; K-12 &amp; HIGHER ED READY &nbsp;•&nbsp; OPEN-SOURCE &amp; SAAS
+        400,000+ COMBINED STARS &#8226; K-12 &amp; HIGHER ED READY &#8226; OPEN-SOURCE &amp; SAAS
       </text>
     </g>
 
