@@ -66,7 +66,7 @@ The global digital document creation, desktop publishing, and visual communicati
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub Stars_Count.* ⭐
+*Sorted descending by GitHub_Stars_Count.* ⭐
 
 | Project & Repository | Stars_Badge | License & Cost | Free Tier / Self-Hosted Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
